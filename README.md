@@ -6,8 +6,7 @@ It extends the native turtle API with higher-level abstractions such as line sty
 
 Whether you are teaching, learning, or building visual tools, turtlePlus helps you focus on the logic of your graphics instead of low-level drawing details.
 
-| English | [简体中文](./README_zh.md) |
-| ------- | -------------------------- |
+ English | [简体中文](./README_zh.md) 
 
 ------
 

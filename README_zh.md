@@ -7,8 +7,8 @@ turtlePlus 是一个基于 Python turtle 模块的增强绘图库，旨在简化
 无论是教学、学习，还是构建可视化工具，turtlePlus 都可以帮助你专注于图形逻辑本身，而无需处理繁琐的底层绘图细节。
 
 
-| [English](./README.md) | 简体中文 |
-| ---------------------- | -------- |
+ [English](./README.md) | 简体中文 
+
 
 
 
