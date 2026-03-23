@@ -1,4 +1,4 @@
-# turtlePlus
+# turtlePlus2
 
 turtlePlus 是一个基于 Python turtle 模块的增强绘图库，旨在简化使用 turtle 进行几何绘图的流程并提升绘图的灵活性。
 
