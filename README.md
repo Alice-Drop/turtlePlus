@@ -1,5 +1,11 @@
 # turtlePlus
 
+turtlePlus is an enhanced drawing toolkit built on top of Python’s turtle module, designed to simplify geometric visualization and improve drawing flexibility with trutle.
+
+It extends the native turtle API with higher-level abstractions such as line styles, point labeling, automatic scaling, and viewport management. With turtlePlus, you can create clean, well-structured diagrams more efficiently—especially for educational demos, mathematical illustrations, and GUI prototyping.
+
+Whether you are teaching, learning, or building visual tools, turtlePlus helps you focus on the logic of your graphics instead of low-level drawing details.
+
 | English | [简体中文](./README_zh.md) |
 | ------- | -------------------------- |
 
